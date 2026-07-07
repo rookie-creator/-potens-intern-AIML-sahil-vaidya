@@ -1,1 +1,310 @@
-[]
+[
+  {
+    "chunk_id": "chunk_0001",
+    "document": "code_of_conduct.pdf",
+    "page": 1,
+    "section": "Introduction",
+    "text": "Code of Conduct\nThis Code of Conduct sets out the standards of behavior expected of every employee, contractor, and\nofficer of Northbridge Analytics. Effective January 2026."
+  },
+  {
+    "chunk_id": "chunk_0002",
+    "document": "code_of_conduct.pdf",
+    "page": 1,
+    "section": "Respect and Non-Discrimination",
+    "text": "1. Respect and Non-Discrimination\nEmployees must treat colleagues, clients, and partners with respect regardless of race, gender, religion,\nage, disability, or any other protected characteristic. Harassment or discrimination of any kind will not be\ntolerated."
+  },
+  {
+    "chunk_id": "chunk_0003",
+    "document": "code_of_conduct.pdf",
+    "page": 1,
+    "section": "Conflicts of Interest",
+    "text": "2. Conflicts of Interest\nEmployees must disclose any financial or personal interest that could reasonably be seen to conflict with\ntheir duties, including outside employment, board positions, or significant investments in competitors or\nclients."
+  },
+  {
+    "chunk_id": "chunk_0004",
+    "document": "code_of_conduct.pdf",
+    "page": 1,
+    "section": "Gifts and Hospitality",
+    "text": "3. Gifts and Hospitality\nEmployees may accept gifts from clients or vendors valued under 2,000 rupees. Gifts exceeding this value\nmust be declined or reported to the Compliance team and may need to be surrendered."
+  },
+  {
+    "chunk_id": "chunk_0005",
+    "document": "code_of_conduct.pdf",
+    "page": 2,
+    "section": "Confidentiality",
+    "text": "4. Confidentiality\nEmployees must not disclose confidential company or client information to any third party, whether during\nor after their employment, except as required by law or with prior written consent."
+  },
+  {
+    "chunk_id": "chunk_0006",
+    "document": "code_of_conduct.pdf",
+    "page": 2,
+    "section": "Reporting Violations",
+    "text": "5. Reporting Violations\nEmployees who witness a violation of this Code are expected to report it to their manager, HR, or through\nthe anonymous ethics hotline. Retaliation against anyone who reports a concern in good faith is strictly\nprohibited."
+  },
+  {
+    "chunk_id": "chunk_0007",
+    "document": "code_of_conduct.pdf",
+    "page": 2,
+    "section": "Disciplinary Action",
+    "text": "6. Disciplinary Action\nViolations of this Code may result in disciplinary action up to and including termination of employment,\ndepending on the severity and nature of the violation."
+  },
+  {
+    "chunk_id": "chunk_0008",
+    "document": "company_policy.pdf",
+    "page": 1,
+    "section": "Introduction",
+    "text": "General Company Policy\nThis document consolidates overarching company-wide policies for Northbridge Analytics Pvt. Ltd.\nEffective January 2026."
+  },
+  {
+    "chunk_id": "chunk_0009",
+    "document": "company_policy.pdf",
+    "page": 1,
+    "section": "Company Overview",
+    "text": "1. Company Overview\nNorthbridge Analytics is a data and analytics consultancy operating across three offices, with the majority\nof staff working in project-based teams reporting to a delivery manager."
+  },
+  {
+    "chunk_id": "chunk_0010",
+    "document": "company_policy.pdf",
+    "page": 1,
+    "section": "Holidays",
+    "text": "2. Holidays\nThe company observes 12 public holidays annually, published each December for the following calendar\nyear on the internal HR portal."
+  },
+  {
+    "chunk_id": "chunk_0011",
+    "document": "company_policy.pdf",
+    "page": 1,
+    "section": "Performance Reviews",
+    "text": "3. Performance Reviews\nFormal performance reviews are conducted twice a year, in June and December. Reviews consider\ndelivery quality, client feedback, and collaboration with team members."
+  },
+  {
+    "chunk_id": "chunk_0012",
+    "document": "company_policy.pdf",
+    "page": 2,
+    "section": "Workplace Flexibility",
+    "text": "4. Workplace Flexibility\nThe company supports flexible working arrangements where they do not conflict with client commitments\nor team collaboration needs. Specific rules for remote work are set out in the Remote Work Policy, and\nleave entitlements are set out in the Leave Policy."
+  },
+  {
+    "chunk_id": "chunk_0013",
+    "document": "company_policy.pdf",
+    "page": 2,
+    "section": "Equipment Provisioning",
+    "text": "5. Equipment Provisioning\nAll employees are issued a company laptop, headset, and necessary software licenses upon joining.\nEquipment must be returned to IT within five working days of the employee's last working day."
+  },
+  {
+    "chunk_id": "chunk_0014",
+    "document": "company_policy.pdf",
+    "page": 2,
+    "section": "Grievance Redressal",
+    "text": "6. Grievance Redressal\nEmployees with a grievance related to compensation, working conditions, or interpersonal conflict may\nraise it with HR, who will acknowledge receipt within 3 working days and aim to resolve it within 15 working\ndays."
+  },
+  {
+    "chunk_id": "chunk_0015",
+    "document": "employee_handbook.pdf",
+    "page": 1,
+    "section": "Introduction",
+    "text": "Employee Handbook\nNorthbridge Analytics Pvt. Ltd. Version 3.2, effective January 2026."
+  },
+  {
+    "chunk_id": "chunk_0016",
+    "document": "employee_handbook.pdf",
+    "page": 1,
+    "section": "Welcome",
+    "text": "1. Welcome\nThis handbook outlines the policies, expectations, and benefits that apply to every employee of\nNorthbridge Analytics. It is intended as a general reference and should be read alongside the specific\npolicy documents referenced throughout."
+  },
+  {
+    "chunk_id": "chunk_0017",
+    "document": "employee_handbook.pdf",
+    "page": 1,
+    "section": "Working Hours",
+    "text": "2. Working Hours\nStandard working hours are 9:30 AM to 6:30 PM, Monday through Friday, with a one-hour lunch break.\nEmployees are expected to be available during core hours of 11:00 AM to 4:00 PM regardless of their\nindividual schedule."
+  },
+  {
+    "chunk_id": "chunk_0018",
+    "document": "employee_handbook.pdf",
+    "page": 1,
+    "section": "Flexible and Remote Work",
+    "text": "3. Flexible and Remote Work\nEmployees may work remotely up to three days per week. Remote work does not require prior approval\nfrom a manager, provided the employee remains reachable during core hours and attends all scheduled\nmeetings. Employees who wish to work remotely on a permanent basis should refer to the separate\nRemote Work Policy."
+  },
+  {
+    "chunk_id": "chunk_0019",
+    "document": "employee_handbook.pdf",
+    "page": 1,
+    "section": "Probation Period",
+    "text": "4. Probation Period\nNew employees undergo a probation period of six months from their date of joining. During this period,\neither party may terminate employment with two weeks written notice."
+  },
+  {
+    "chunk_id": "chunk_0020",
+    "document": "employee_handbook.pdf",
+    "page": 2,
+    "section": "Code of Conduct",
+    "text": "5. Code of Conduct\nAll employees are expected to act with integrity, treat colleagues with respect, and avoid conflicts of\ninterest. Full details are provided in the Code of Conduct document."
+  },
+  {
+    "chunk_id": "chunk_0021",
+    "document": "employee_handbook.pdf",
+    "page": 2,
+    "section": "Leave Entitlement",
+    "text": "6. Leave Entitlement\nEmployees are entitled to casual leave, sick leave, and earned leave as described in the Leave Policy\ndocument. Public holidays are declared annually by HR and published on the internal portal."
+  },
+  {
+    "chunk_id": "chunk_0022",
+    "document": "employee_handbook.pdf",
+    "page": 2,
+    "section": "Expense Reimbursement",
+    "text": "7. Expense Reimbursement\nBusiness-related expenses such as travel, client meals, and approved software subscriptions are\nreimbursable. Employees must submit itemized receipts within 30 days of the expense being incurred."
+  },
+  {
+    "chunk_id": "chunk_0023",
+    "document": "employee_handbook.pdf",
+    "page": 2,
+    "section": "Information Security",
+    "text": "8. Information Security\nEmployees must follow the Information Security Policy at all times, particularly regarding password\nhygiene, use of company devices, and handling of confidential client data."
+  },
+  {
+    "chunk_id": "chunk_0024",
+    "document": "leave_policy.pdf",
+    "page": 1,
+    "section": "Introduction",
+    "text": "Leave Policy\nApplicable to all full-time employees of Northbridge Analytics. Effective January 2026."
+  },
+  {
+    "chunk_id": "chunk_0025",
+    "document": "leave_policy.pdf",
+    "page": 1,
+    "section": "Casual Leave",
+    "text": "1. Casual Leave\nEmployees receive 12 casual leaves annually, credited at the start of the calendar year. Casual leave may\nbe taken in units of half a day or more, with at least 24 hours notice to the reporting manager where\npossible."
+  },
+  {
+    "chunk_id": "chunk_0026",
+    "document": "leave_policy.pdf",
+    "page": 1,
+    "section": "Sick Leave",
+    "text": "2. Sick Leave\nEmployees receive 10 sick leaves annually. Sick leave exceeding three consecutive days requires a\nmedical certificate to be submitted to HR within five working days of returning to work."
+  },
+  {
+    "chunk_id": "chunk_0027",
+    "document": "leave_policy.pdf",
+    "page": 1,
+    "section": "Earned Leave",
+    "text": "3. Earned Leave\nEarned leave accrues at 1.5 days per completed month of service, up to a maximum of 18 days per year.\nEarned leave must be applied for at least one week in advance except in emergencies."
+  },
+  {
+    "chunk_id": "chunk_0028",
+    "document": "leave_policy.pdf",
+    "page": 2,
+    "section": "Carry Forward",
+    "text": "4. Carry Forward\nUnused casual leave cannot be carried forward beyond 5 days into the following calendar year; any\nbalance above this is forfeited. Earned leave may be carried forward up to a maximum accumulated\nbalance of 45 days, beyond which it is automatically encashed."
+  },
+  {
+    "chunk_id": "chunk_0029",
+    "document": "leave_policy.pdf",
+    "page": 2,
+    "section": "Leave During Notice Period",
+    "text": "5. Leave During Notice Period\nEmployees serving a notice period may not avail earned leave without written approval from both their\nreporting manager and HR."
+  },
+  {
+    "chunk_id": "chunk_0030",
+    "document": "leave_policy.pdf",
+    "page": 2,
+    "section": "Maternity and Paternity Leave",
+    "text": "6. Maternity and Paternity Leave\nMaternity leave is provided for 26 weeks in accordance with applicable statutory requirements. Paternity\nleave of 10 working days is available to be availed within three months of the child's birth."
+  },
+  {
+    "chunk_id": "chunk_0031",
+    "document": "remote_work.pdf",
+    "page": 1,
+    "section": "Introduction",
+    "text": "Remote Work Policy\nThis document governs remote and hybrid work arrangements for all departments. Effective January 2026,\nsupersedes prior informal arrangements."
+  },
+  {
+    "chunk_id": "chunk_0032",
+    "document": "remote_work.pdf",
+    "page": 1,
+    "section": "Eligibility",
+    "text": "1. Eligibility\nRemote work is available to employees who have completed their probation period and hold a role that\ndoes not require physical presence, such as roles involving lab equipment, secure hardware, or in-person\nclient support."
+  },
+  {
+    "chunk_id": "chunk_0033",
+    "document": "remote_work.pdf",
+    "page": 1,
+    "section": "Approval Process",
+    "text": "2. Approval Process\nRemote work requires prior written approval from the employee's reporting manager, submitted through\nthe HR portal at least three business days in advance. Standing or recurring remote work arrangements\nmust be reviewed and re-approved every quarter."
+  },
+  {
+    "chunk_id": "chunk_0034",
+    "document": "remote_work.pdf",
+    "page": 1,
+    "section": "Frequency Limits",
+    "text": "3. Frequency Limits\nEmployees approved for remote work may work from home up to two days per week. Requests for\nadditional remote days require approval from both the reporting manager and the department head, and\nare granted only in exceptional circumstances."
+  },
+  {
+    "chunk_id": "chunk_0035",
+    "document": "remote_work.pdf",
+    "page": 2,
+    "section": "Equipment and Connectivity",
+    "text": "4. Equipment and Connectivity\nEmployees working remotely must use company-issued laptops and connect via the corporate VPN at all\ntimes when accessing internal systems. Personal devices may not be used to access client data under any\ncircumstances."
+  },
+  {
+    "chunk_id": "chunk_0036",
+    "document": "remote_work.pdf",
+    "page": 2,
+    "section": "Availability",
+    "text": "5. Availability\nRemote employees must remain reachable via Slack and email during standard working hours and must\nattend all meetings with video enabled unless otherwise agreed with their manager."
+  },
+  {
+    "chunk_id": "chunk_0037",
+    "document": "remote_work.pdf",
+    "page": 2,
+    "section": "Revocation",
+    "text": "6. Revocation\nRemote work privileges may be revoked at any time if performance concerns arise or if the employee fails\nto comply with the Information Security Policy while working remotely."
+  },
+  {
+    "chunk_id": "chunk_0038",
+    "document": "security_policy.pdf",
+    "page": 1,
+    "section": "Introduction",
+    "text": "Information Security Policy\nApplies to all employees, contractors, and vendors with access to Northbridge Analytics systems. Effective\nJanuary 2026."
+  },
+  {
+    "chunk_id": "chunk_0039",
+    "document": "security_policy.pdf",
+    "page": 1,
+    "section": "Password Requirements",
+    "text": "1. Password Requirements\nAll system passwords must be at least 12 characters long, include a mix of upper and lower case letters,\nnumbers, and symbols, and must be changed every 90 days. Password reuse across the last 5 passwords\nis not permitted."
+  },
+  {
+    "chunk_id": "chunk_0040",
+    "document": "security_policy.pdf",
+    "page": 1,
+    "section": "Device Security",
+    "text": "2. Device Security\nCompany-issued laptops must have disk encryption and endpoint protection software enabled at all times.\nEmployees must not disable or uninstall security agents without IT approval."
+  },
+  {
+    "chunk_id": "chunk_0041",
+    "document": "security_policy.pdf",
+    "page": 1,
+    "section": "Data Classification",
+    "text": "3. Data Classification\nData is classified as Public, Internal, Confidential, or Restricted. Client data is always classified as\nConfidential or Restricted and may not be stored on personal devices, personal cloud storage, or\nremovable media."
+  },
+  {
+    "chunk_id": "chunk_0042",
+    "document": "security_policy.pdf",
+    "page": 2,
+    "section": "Access Control",
+    "text": "4. Access Control\nAccess to production systems is granted on a least-privilege basis and reviewed quarterly by the security\nteam. Multi-factor authentication is mandatory for all accounts with access to Confidential or Restricted\ndata."
+  },
+  {
+    "chunk_id": "chunk_0043",
+    "document": "security_policy.pdf",
+    "page": 2,
+    "section": "Incident Reporting",
+    "text": "5. Incident Reporting\nAny suspected security incident, including lost devices, phishing attempts, or unauthorized access, must\nbe reported to the security team within 24 hours via the incident reporting form on the internal portal."
+  },
+  {
+    "chunk_id": "chunk_0044",
+    "document": "security_policy.pdf",
+    "page": 2,
+    "section": "Third-Party Software",
+    "text": "6. Third-Party Software\nInstallation of third-party software on company devices requires approval from IT. Browser extensions that\nrequest access to page content on internal tools are prohibited."
+  }
+]
