@@ -166,6 +166,7 @@ Chunk ID : {chunk.get('chunk_id', 'N/A')}
         question: str,
         k: int = DEFAULT_TOP_K,
     ) -> Dict:
+        
 
         # Step 1: Retrieve candidate chunks from FAISS
         candidate_results = self.search(
@@ -189,6 +190,38 @@ Chunk ID : {chunk.get('chunk_id', 'N/A')}
             "context": self.build_context(results) if results else "",
             "results": results,
         }
+        # --------------------------------------------------------------
+
+    def get_document_chunks(
+        self,
+        document_name: str,
+    ) -> List[Dict]:
+
+        """
+        Return every chunk belonging to one document.
+        """
+
+        results = []
+
+        for chunk in self.metadata.values():
+
+            if chunk["document"].lower() == document_name.lower():
+
+                results.append(dict(chunk))
+
+        results.sort(
+
+            key=lambda x: (
+
+                x["page"],
+
+                x["chunk_id"],
+            )
+
+        )
+
+        return results
+# --------------------------------------------------------------
 
 
 # ------------------------------------------------------------------
@@ -224,7 +257,11 @@ def retrieve(
         k=k,
     )
 
+def get_document_chunks(document_name: str):
 
+    retriever = get_retriever()
+
+    return retriever.get_document_chunks(document_name)
 # ------------------------------------------------------------------
 # Demo
 # ------------------------------------------------------------------
