@@ -1,0 +1,36 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Jupyter / notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / cache artifacts
+*.log
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Project-specific generated data
+vectorstore/*.pkl
+vectorstore/*.index
