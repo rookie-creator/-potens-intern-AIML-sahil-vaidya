@@ -57,6 +57,8 @@ from pydantic import BaseModel, Field
 
 from retrieval.retriever import retrieve
 from utils.citations import build_citations
+from utils.confidence import calculate_confidence
+from utils.confidence import build_confidence_report
 
 # ------------------------------------------------------------
 # Load Environment Variables
@@ -129,6 +131,12 @@ class AskResponse(BaseModel):
     answer: str
 
     citations: List[Citation]
+    
+    confidence: float
+    
+    confidence_level: str
+
+    human_review: bool
 
     retrieved_chunks: int
 
@@ -279,6 +287,12 @@ def ask_question(request: AskRequest):
             ),
 
             citations=[],
+            
+            confidence=0.0,
+            
+            confidence_level="Low",
+
+            human_review=True,
 
             retrieved_chunks=0,
         )
@@ -307,6 +321,7 @@ def ask_question(request: AskRequest):
     citations = build_citations(
         retrieved_chunks
     )
+    confidence = build_confidence_report(retrieved_chunks)
 
     # --------------------------------------------------------
     # Return Response
@@ -321,6 +336,12 @@ def ask_question(request: AskRequest):
         answer=answer,
 
         citations=citations,
+        
+        confidence=confidence["confidence"],
+
+        confidence_level=confidence["level"],
+        
+        human_review=confidence["human_review"],
 
         retrieved_chunks=len(retrieved_chunks),
     )
